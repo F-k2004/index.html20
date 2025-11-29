@@ -7,7 +7,7 @@
   <style>
     body {
       margin: 0;
-      overflow: hidden;
+      verflow: hidden;
       background: #000;
     }
     canvas {
